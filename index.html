@@ -1,0 +1,87 @@
+<!DOCTYPE html> 
+<html lang="en" manifest="cache.manifest"> 
+<head>
+	<meta charset="utf-8">
+	<title>Skin Saver</title>		
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, target-densitydpi=device-dpi">
+	<link rel="stylesheet" href="themes/skinsaver3.min.css" />
+	<link rel="stylesheet" href="jquery/jquery.mobile.structure-1.3.0.min.css" />
+	<link rel="stylesheet" href="themes/responsivemobile.css" />
+	<script src="jquery/jquery-1.9.1.min.js"></script>
+	<script src="jquery/jquery.mobile-1.3.0.min.js"></script>
+	<script type="text/javascript" src="home.js"></script>
+</head> 
+<body> 
+
+<div id="page" data-role="page" data-theme="a">
+
+	<div class="head" data-role="header" >
+		<h1>Skin Saver</h1>
+		<a href="#menu" id="tomenu" data-rel="popup" data-role="button" data-icon="gear" data-position-to="window" data-transition="flip" class="ui-btn-right">Menu</a>
+		
+	</div><!-- /header -->
+
+	<div data-role="content">
+		<div id="description" style="border:0.15em dashed #00a99d; padding:0.65em; border-radius:0.5em">	
+			<h3 id="toavoid" style="text-align:center; margin:auto">Ingredients to avoid in cosmetics</h3>
+			<p class="firstp" style="text-align:center">
+				To add an ingredient go to <strong>Menu</strong> -> <strong>Add new</strong>.
+				To remove ingredients select the ones you want to remove and 
+				go to <strong>Menu</strong> -> <strong>Remove selected</strong>.
+				To edit their description tap on the corresponding <strong>Edit</strong> button on the right.
+			</p>
+		</div>
+		<ul class="list" data-role="listview"  data-inset="true" data-split-icon="edit"  data-filter="true">
+			
+		</ul>
+		
+		<div data-role="popup" id="pop" data-theme="a" data-overlay-theme="a"  class="ui-content" style="max-width:300px; padding-bottom:1em;">
+			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>		
+            		<h3>Delete selected items?</h3>
+            		<p>This action cannot be undone.</p>
+    				<a href="#" data-role="button" data-inline="true" data-rel="back" data-theme="a">Cancel</a>
+        			<a href="#" id="okDel" data-role="button" data-inline="true" data-rel="back" data-theme="a">Delete</a>
+        </div>
+        	
+        <div data-role="popup" id="reset" data-theme="a" data-overlay-theme="a"  class="ui-content" style="max-width:300px; padding-bottom:1em;">
+			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>		
+            		<h3>Reset list?</h3>
+            		<p>This action cannot be undone.</p>
+    				<a href="#" data-role="button" data-inline="true" data-rel="back" data-theme="a">Cancel</a>
+        			<a href="#" id="okReset" data-role="button" data-inline="true" data-rel="back" data-theme="a">Reset</a>
+        </div>	
+		
+		<div data-role="popup" id="edit" data-theme="a" data-overlay-theme="a"  class="ui-content" style="max-width:500px; padding-bottom:1em;">
+			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
+			<h3>Edit description</h3>
+            <p data-inline="true"><strong>Name: </strong></p><p id="name" data-inline="true"></p>
+            <label for="desc"><strong>New description: </strong></label>
+            <input type="text" name="pass" id="desc" value="" placeholder="description" data-theme="a">
+            <button id="save" type="submit" data-theme="a" data-icon="check">Save</button>
+		</div>
+		
+		<div data-role="popup" id="add" data-theme="a" data-overlay-theme="a"  class="ui-content" style="max-width:500px; padding-bottom:1em;">
+			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
+			<h3>Add a new ingredient</h3>
+            <label for="newName"><strong>Name: </strong></label>
+            <input type="text" name="user" id="newName" value="" placeholder="Insert name" data-theme="a">
+            <label for="newDesc"><strong>Description: </strong></label>
+            <input type="text" name="pass" id="newDesc" value="" placeholder="Insert description" data-theme="a">
+            <button id="saveNew" type="submit" data-theme="a" data-icon="check">Save</button>
+		</div>
+		
+		<div data-role="popup" id="menu" data-theme="a" data-overlay-theme="a"  class="ui-content" >
+			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
+			<ul data-role="listview" data-inset="true">
+    				<li><a href="#add" data-rel="popup" data-position-to="window" data-transition="flip">Add new</a></li>
+    				<li><a href="#pop" id="remove" data-rel="popup" data-position-to="window" data-transition="flip" class="ui-disabled">Remove selected</a></li>
+    				<li><a href="#reset" data-rel="popup" data-position-to="window" data-transition="flip">Reset list</a></li>
+    		</ul>
+        </div>
+        
+	</div><!-- /content -->
+
+</div><!-- /page -->
+
+</body>
+</html>

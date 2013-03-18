@@ -1,0 +1,43 @@
+/*Default style*/
+a:link {font-size: 0.7em;}
+body { font-family: Helvetica, san-serif; }
+#page .ui-header {height:41px;}
+h1 {font-family:Georgia;}
+#page .ui-header h1 {font-size:1.2em;}
+#description {margin-bottom:2em;}
+
+
+/* Specific style for smartphones*/
+@media all and (max-width: 33em) {
+	#description {margin-bottom:0.6em;}
+	a:link {font-size: 0.67em;}
+	.firstp {font-size:0.67em;}
+	#toavoid {font-size:0.8em;}
+	#page .ui-header h1 {font-size:1.01em;}
+	.ui-li-link-alt {width:5%; padding-right:2em;}
+}
+
+/* Tablet and landscape styles*/
+@media all and (min-width: 33.01em) and (max-width:40em) {
+	#description {margin-bottom:1em;}
+	.firstp {font-size:0.75em;}
+	#toavoid {font-size:0.85em;}
+	#page .ui-header h1 {font-size:1.05em;}
+	.ui-li-link-alt {width:7%; padding-right:0.5em}
+}
+
+@media all and (min-width: 40.01em) and (max-width:50em) {
+	#description {margin-bottom:1.1em;}
+	.firstp {font-size:0.85em;}
+	#toavoid {font-size:1em;}
+	#page .ui-header h1 {font-size:1.1em;}
+	.ui-li-link-alt {width:6.5%;}
+}
+
+@media all and (min-width: 50.01em) and (max-width:60em) {
+	#description {margin-bottom:1.2em;}
+	.firstp {font-size:0.95em;}
+	#toavoid {font-size:1.05em;}
+	#page .ui-header h1 {font-size:1.15em;}
+	.ui-li-link-alt {width:6.5%;}
+}

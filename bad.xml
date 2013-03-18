@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <name>1,3-cimethylol-5,5-dimethylhydantoin</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>2-bromo-2-nitropropane-1,3-diol</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>2-nitro-2-(hydroxymethyl)-1,3-propanediol</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Ammonium lauryl sulfate</name>
+    <desc>aggressive surfactant</desc>
+
+    <name>Amodimethicone</name>
+    <desc>silicone</desc>
+
+    <name>BHA</name>
+    <desc>may contain toluene</desc>
+
+    <name>BHT</name>
+    <desc>may contain toluene</desc>
+
+    <name>Bronopol</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Cocamide DEA</name>
+    <desc>aggressive surfactant</desc>
+
+    <name>Cocamide MEA</name>
+    <desc>aggressive surfactant</desc>
+
+    <name>Cocamide TEA</name>
+    <desc>aggressive surfactant</desc>
+
+    <name>Cyclomethicone</name>
+    <desc>silicone</desc>
+
+    <name>Cyclopentasiloxane</name>
+    <desc>silicone</desc>
+
+    <name>Diazolidinyl urea</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Dimethicone</name>
+    <desc>silicone</desc>
+
+    <name>Dimetyconol</name>
+    <desc>silicone</desc>
+
+    <name>DMDM hydantoin</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Formaldehyde</name>
+    <desc>formaldehyde, carcinogenic</desc>
+
+    <name>Formalin</name>
+    <desc>formaldehyde, carcinogenic</desc>
+
+    <name>Formic aldehyde</name>
+    <desc>formaldehyde, carcinogenic</desc>
+
+    <name>Imidazolidinyl urea</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Isopropyl palmitate</name>
+    <desc>comedogenic</desc>
+
+    <name>Mineral oil</name>
+    <desc>petrolatum</desc>
+
+    <name>N,N'-bis(hydroxymethyl) urea</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Paraffinum liquidum</name>
+    <desc>petrolatum</desc>
+
+    <name>PEG</name>
+    <desc>contains traces of ethylene oxide and carbon dioxide, carcinogenic</desc>
+
+    <name>Petrolatum</name>
+    <desc>petrolatum</desc>
+
+    <name>Phenil dimethicone</name>
+    <desc>silicone</desc>
+
+    <name>PPG</name>
+    <desc>contains traces of ethylene oxide and carbon dioxide, carcinogenic</desc>
+
+    <name>Quaternium-80</name>
+    <desc>silicone</desc>
+
+    <name>Sodium C12-13 Pareth Sulfate</name>
+    <desc>surfactant derived from paraffinum liquidum</desc>
+
+    <name>Sodium hydroxylmethylglycinate</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Sodium lauryl sulfate</name>
+    <desc>aggressive surfactant</desc>
+
+    <name>Triclosan</name>
+    <desc>strong antibacterial which may accumulate in the adipose tissue and in breast milk</desc>
+
+    <name>Trimethylolnitromethane</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Tris nitro</name>
+    <desc>may release formaldehyde</desc>
+
+    <name>Vaselina</name>
+    <desc>petrolatum</desc>
+</data>   
