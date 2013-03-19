@@ -20,7 +20,7 @@ Next, you could find that remembering the names of the ingredients you should av
 
 Where can I find it?
 ====================
-This web app has been created specifically for Firefox OS and Firefox for Android users, but right now is still pending approval
+This web app has been created specifically for Firefox OS and Firefox for Android, and right now is still pending approval
 on the Firefox Marketplace.
 
-In the meantime , if you are an Android user, you can find it on Google Play.
+In the meantime, if you are an Android user, you can find it on Google Play.
