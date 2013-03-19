@@ -16,7 +16,7 @@ doesn't fit anybody's skin, eventually.
 
 So, I heartily suggest you to do some research on the Internet about this subject, to inform yourself (and maybe search for the INCI name of the ingredients you know you're allergic to).
 Next, you could find that the names of the ingredients you should avoid are a little difficult to remember, and there's where Skin Saver comes in handy, with a predefined list counting more than
-30 inci names of ingredients to avoid, with editable descriptions; you can also add or remove ingredients, or reset the list.
+30 INCI names of ingredients to avoid, with editable descriptions; you can also add or remove ingredients, or reset the list.
 
 Where can I find it?
 ====================
