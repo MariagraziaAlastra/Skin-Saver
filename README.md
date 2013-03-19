@@ -1,6 +1,6 @@
 Skin Saver
 ==========
-Welcome to the github page for the web app "Skin Saver"! 
+Welcome to the GitHub page for the web app "Skin Saver"! 
 
 What is Skin Saver?
 ===================
