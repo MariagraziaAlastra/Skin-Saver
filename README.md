@@ -7,7 +7,7 @@ What is Skin Saver?
 Skin Saver is your best friend when it comes to purchasing cosmetics!
 
 Did you ever try to read the INCI (list of ingredients) of a shampoo, moisturizer, soap or toothpaste before buying it?
-No? Well, that's not surprising: nearly nobody, in fact, does it, because they can't understand the inci names of the ingredients.
+No? Well, that's not surprising: nearly nobody, in fact, does it, because they can't understand the INCI names of the ingredients.
 In fact, who would suspect that, for instance, "Sodium Lauryl Sulfate" is a surfactant (and a very aggresive one, too), or in other words the thing that actually washes you when you use that particular shampoo?
 But, if you don't know how to read an INCI, how can you expect to judge if a product is worth your money?
 Maybe you are allergic to a particular ingredients. Maybe that product is too aggressive for you, even if on the package it says "delicate".
