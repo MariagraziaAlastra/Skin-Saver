@@ -1,9 +1,9 @@
-Skin Saver
-==========
+#Skin Saver#
+
 Welcome to the GitHub page for the web app "Skin Saver"! 
 
-What is Skin Saver?
-===================
+##What is Skin Saver?##
+
 Skin Saver is your best friend when it comes to purchasing cosmetics!
 
 Did you ever try to read the INCI (list of ingredients) of a shampoo, moisturizer, soap or toothpaste before buying it?
@@ -18,8 +18,8 @@ So, I heartily suggest you to do some research on the Internet about this subjec
 Next, you could find that the names of the ingredients you should avoid are a little difficult to remember, and there's where Skin Saver comes in handy, with a predefined list counting more than
 30 INCI names of ingredients to avoid, with editable descriptions; you can also add or remove ingredients, or reset the list.
 
-Targeted platforms
-==================
+##Targeted platforms##
+
 This porting is specifically for Firefox OS and Firefox for Android, and right now is still pending approval
 on the Firefox Marketplace.
 
