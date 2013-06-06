@@ -24,4 +24,3 @@ This porting is specifically for Firefox OS and Firefox for Android, and right n
 on the Firefox Marketplace.
 
 In the meantime, if you are an Android user, you can find the original version on Google Play, with different graphics.
-
