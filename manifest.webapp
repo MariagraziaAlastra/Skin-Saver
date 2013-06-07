@@ -13,7 +13,7 @@
     "name": "Maria Grazia Alastra",
     "url": "https://github.com/MariagraziaAlastra"
   },
-  "launch_patch": "/Skin-Saver/",
+  "launch_path": "/Skin-Saver/",
   "installs_allowed_from": [
     "*"
   ]
