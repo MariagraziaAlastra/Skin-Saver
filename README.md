@@ -27,3 +27,23 @@ This porting is specifically for **Firefox**, **Firefox OS** and **Firefox for A
 on the Firefox Marketplace.
 
 In the meantime, if you are an Android user, you can find [the original version on Google Play](https://play.google.com/store/apps/details?id=mg.free.skinsaver), with different graphics.
+
+License - GNU GPLv3
+-------------------
+
+Skin Saver Copyright (C) 2013  Maria Grazia Alastra
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+See also [LICENSE.md](https://github.com/MariagraziaAlastra/Skin-Saver/blob/gh-pages/LICENSE.md).
