@@ -3,13 +3,18 @@
   "name": "Skin Saver",
   "description": "With Skin Saver you can always carry with you the list of ingredients to avoid in cosmetics, look for them quickly and add new ones!",
   "icons": {
-    "60": "/icons/b2gicon.png"
+    "16": "Skin-Saver/icons/b2gicon-16.png",
+    "30": "Skin-Saver/icons/b2gicon-30.png",
+    "48": "Skin-Saver/icons/b2gicon-48.png",
+    "60": "Skin-Saver/icons/b2gicon-60.png",
+    "128": "Skin-Saver/icons/b2gicon-128.png"
   },
   "developer": {
     "name": "Maria Grazia Alastra",
     "url": "https://github.com/MariagraziaAlastra"
   },
+  "launch_patch": "/Skin-Saver/index.html",
   "installs_allowed_from": [
-    "https://marketplace.mozilla.org"
+    "*"
   ]
 } 
