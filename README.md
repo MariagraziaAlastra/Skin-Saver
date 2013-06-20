@@ -25,7 +25,7 @@ Targeted platforms
 
 This porting is specifically for **Firefox**, **Firefox OS** and **Firefox for Android**; you can find it [on the Firefox Marketplace](https://marketplace.firefox.com/app/skin-saver/)!
 
-In the meantime, if you are an Android user, you can find [the original version on Google Play](https://play.google.com/store/apps/details?id=mg.free.skinsaver), with different graphics.
+If you are an Android user, you can find [the original version on Google Play](https://play.google.com/store/apps/details?id=mg.free.skinsaver), with different graphics.
 
 License - GNU GPLv3
 -------------------
